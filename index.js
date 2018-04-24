@@ -24,6 +24,7 @@ do{
   i++
 }
   while(i<15)
+  return newArray;
 }
 
 
